@@ -2,6 +2,8 @@
 
 <div align="center">
 
+![AEGIS-Ω Banner](assets/banner_aegis.png)
+
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.10-orange.svg)
